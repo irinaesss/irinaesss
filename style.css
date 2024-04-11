@@ -1,4 +1,4 @@
-body { background-color: red
+body { background-color: light red;
 
 }
 
@@ -11,4 +11,10 @@ p {
 
 a {
 
+}
+
+img { 
+
+width: 400px;
+height: 200px;
 }
