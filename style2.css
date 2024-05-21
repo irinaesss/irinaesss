@@ -1,1 +1,38 @@
+body { background-color: #F2D7D5;
 
+}
+
+h1 { color: black;
+font-family: Times New Roman;
+}
+
+p1 {
+
+}
+
+
+
+a {
+
+}
+
+img { 
+
+width: 400px;
+height: 100px;
+border: none;
+/*object-position: top left; */
+}
+
+img2 { 
+
+width: 400px;
+height: 100px;
+border: none;
+}
+
+h2 { font-weight: bold;
+  font-size: 30px;
+  font-color: #FCF7C0;
+
+}
